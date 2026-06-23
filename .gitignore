@@ -1,0 +1,8 @@
+# Build results
+build/
+
+# VS Code directory
+.vscode/
+
+# macOS Finder metadata files
+.DS_Store

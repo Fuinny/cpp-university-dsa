@@ -1,0 +1,6 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Sources
+*.cpp   text diff=cpp
+*.hpp   text diff=cpp

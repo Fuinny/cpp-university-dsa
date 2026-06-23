@@ -1,0 +1,10 @@
+alice password123
+bob qwerty
+charlie hello123
+david pass4321
+emily sunshine
+frank tiger77
+george winter2024
+helen applepie
+ivan strongpass
+julia openSesame

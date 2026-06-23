@@ -1,0 +1,14 @@
+# Top-most EditorConfig file
+root = true
+
+# Unix style newlines with a newline ending every file
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Indent size and style for C++ source and header files
+[*.{cpp,hpp}]
+indent_size = 4
+indent_style = space
